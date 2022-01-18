@@ -9,3 +9,17 @@ Alan news app is voice enabled smart news app that gives you latest news around 
 <img src="./img/Screenshot (16).png" alt="desktop" width="250">
 <br/>
 
+To run the app ,
+
+```
+    git clone <URL>
+```
+then
+``` npm start```
+
+
+
+**UPDATE**
+Working on cloud storage for project using Azure services
+
+Uploaded whole code again on 18/01/22
