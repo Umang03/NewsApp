@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBACI,YACJ,CAEA,KACI,QAAS,CACT,kBACJ,CAEA,EACE,qBACF,CAEA,KACI,sBACJ","file":"main.47fdc866.chunk.css","sourcesContent":["#root, html, body {\n    height:100vh;\n}\n\nbody{\n    margin: 0;\n    background: whitesmoke;\n}\n\n*{\n  box-sizing: border-box;      \n} \n\nhtml {\n    scroll-behavior: smooth;\n}"]}
