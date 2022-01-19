@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AINewsapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42C10E925253491D97885DF724EC571B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D09ED21E7D8D408084DE26004CB6B1F3 }}
           package: .
