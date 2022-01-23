@@ -15,9 +15,11 @@ To run the app ,
     git clone <URL>
 ```
 then
-``` npm start```
+``` npm start
+```
 
 
 
 **UPDATE**
+
 For Microsoft FRT internship I have uploaded this project on Azure. You can visit the site using the link given in the description.
