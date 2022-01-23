@@ -15,7 +15,8 @@ To run the app ,
     git clone <URL>
 ```
 then
-``` npm start
+```
+    npm start
 ```
 
 
